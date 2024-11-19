@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+form{
+    font-family: sans-serif;
+    width: 30%;
+    height: 200px;
+    margin: auto;
+    background: silver;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+div{
+    font-family: sans-serif;
+    width: 40%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+
