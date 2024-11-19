@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+form{
+    background-color: lightgray;
+    font-family: sans-serif;
+    width: 40%;
+    height: 200px;
+    margin: auto; /*centralizar horizontalmente*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
